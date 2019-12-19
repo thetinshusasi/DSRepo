@@ -1,0 +1,9 @@
+D:\Test Code\DS\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+D:\Test Code\DS\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+D:\Test Code\DS\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+D:\Test Code\DS\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+D:\Test Code\DS\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+D:\Test Code\DS\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+D:\Test Code\DS\DataStructures\DataStructures\bin\Debug\Enums.NET.dll
+D:\Test Code\DS\DataStructures\DataStructures\bin\Debug\Enums.NET.pdb
+D:\Test Code\DS\DataStructures\DataStructures\bin\Debug\Enums.NET.xml
